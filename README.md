@@ -2,7 +2,8 @@
 
 TaskFlow is a full-stack **Productivity App** built with **TypeScript** designed to help users efficiently manage their tasks with a clean UI and powerful features. With task creation, deadline tracking, and completion monitoring, it's the perfect tool to boost your personal or team productivity.
 
-![Banner](screenshots/banner.png)
+![Banner](img/Home.png)
+
 
 ---
 
