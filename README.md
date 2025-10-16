@@ -15,21 +15,17 @@ TaskFlow is a full-stack **Productivity App** built with **TypeScript** designed
 - 🎯 **Track Task Progress**
 - 💻 **Modern, Responsive UI Design**
 - 🌀 **Smooth Animations & Transitions**
-- 🌙 **Dark/Light Mode (Optional)**
-- 🔗 **Backend Integration with MongoDB**
+- 🔗 **Backend Integration with MongoDB** (**Upcoming**)
 
 ---
 
 ## 📸 Screenshots
 
 ### 🔍 Task Overview  
-![Task List](screenshots/task-list.png)
+![Task List](img/Task.png)
 
 ### 📝 Create a Task  
-![Create Task](screenshots/create-task.png)
-
-### 📱 Mobile View  
-![Mobile View](screenshots/mobile-view.png)
+![Create Task](img/Task-1.png)
 
 ---
 
