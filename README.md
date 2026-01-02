@@ -33,7 +33,7 @@ TaskFlow is a full-stack **Productivity App** built with **TypeScript** designed
 
 **Frontend:**
 - React.js (Hooks + Context API)
-- TyoeScript
+- TypeScript
 - React Router
 - CSS3 / SCSS / Styled-Components
 
